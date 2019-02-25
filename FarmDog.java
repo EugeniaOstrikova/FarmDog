@@ -1,5 +1,3 @@
-package leverx.course;
-
 import java.util.ArrayList;
 
 public class FarmDog {
